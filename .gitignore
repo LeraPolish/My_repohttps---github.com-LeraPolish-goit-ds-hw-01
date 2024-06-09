@@ -1,0 +1,8 @@
+/app.py
+/Dockerfile
+/env
+/flask-docker-app
+/main.py
+/poetry.lock
+/pyproject.toml
+/requirements.txt
